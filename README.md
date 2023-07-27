@@ -1,6 +1,6 @@
 # Brainfuck Compilers Python
 
-This is a quick experment for testing QBE and LLVM with a naive brainfuck compiler.
+This is a quick experiment for testing QBE and LLVM with a naive brainfuck compiler.
 
 `bf-qbe.py` will create a 'file.ssa' that can be compiled with QBE 1.1.
 
